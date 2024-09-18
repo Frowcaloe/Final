@@ -54,7 +54,7 @@
   .envelope-wrapper > .envelope {
     position: relative;
     width: 500px;
-    height: 600px;
+    height: 240px;
   }
   .envelope-wrapper > .envelope::before {
     content: "";
@@ -95,7 +95,7 @@
     font-family: 'Comic Neue';
     color: var(--txt-color);
     text-align: left;
-    font-size: 12px;
+    font-size: 3px;
   }
   .heart {
     position: absolute;
